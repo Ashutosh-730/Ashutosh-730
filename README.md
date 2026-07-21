@@ -50,13 +50,12 @@
 <h3 align="center">~ 𐌔𐌕𐌀𐌕𐌔 ~</h3>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=ArjunIWNL&theme=highcontrast" alt="GitHub Streak" />
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ashutosh-730" alt="GitHub Streak" /></a>
 </p>
 
-<br/>
 
+
+<br/>
 <p align="center">
 <img src="https://raw.githubusercontent.com/ArjunIWNL/ArjunIWNL/output/snake.svg" alt="Snake animation" />
 </p>
