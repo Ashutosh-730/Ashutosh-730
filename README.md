@@ -38,8 +38,8 @@
 <br/>
 <p align="center">
   <a href="https://discord.com/users/1120396697600790569"><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white"  /></a> ❤︎
-  <a href="https://github.com/ArjunIWNL"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" /></a> ❤︎
-  <a href="sabyasachirout321@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"  /></a>
+  <a href="https://github.com/Ashutosh-730"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" /></a> ❤︎
+  <a href="ashutoshy730@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"  /></a>
 </p>
 
 <br/>
@@ -53,11 +53,9 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ashutosh-730" alt="GitHub Streak" /></a>
 </p>
 
-
-
 <br/>
 <p align="center">
-<img src="https://raw.githubusercontent.com/ArjunIWNL/ArjunIWNL/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Ashutosh-730/Ashutosh-730/output/snake.svg" alt="Snake animation" />
 </p>
 <br/>
 <div align="center">
