@@ -83,26 +83,3 @@
 <div align="center">
 <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
-</p>
-<br/>
-<div align="center">
-  <img src="https://img.shields.io/badge/Valorant-FA4454.svg?style=for-the-badge&logo=Valorant&logoColor=white"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Steam-000000.svg?style=for-the-badge&logo=Steam&logoColor=white"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CounterStrike-000000.svg?style=for-the-badge&logo=Counter-Strike&logoColor=white"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Streamlabs-80F5D2.svg?style=for-the-badge&logo=Streamlabs&logoColor=black"  />
-  <img width="12" />
- </div>
-
- <br/>
-
-<p align="center">
-  <em>" GIVE ᗰE ᗩ「𝗕𝗥/」"</em>
-</p>
-
-###
-<div align="center">
-<img height="150" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
